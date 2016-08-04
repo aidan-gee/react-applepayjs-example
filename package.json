@@ -1,0 +1,23 @@
+{
+  "name": "react-applepay-button",
+  "version": "0.0.1",
+  "description": "A react component for web apple pay payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Gee <aidangeewd@gmail.com",
+  "license": "GNU",
+  "dependencies": {
+    "react-dom": "~15.3.0",
+    "react": "~15.3.0"
+  },
+  "devDependencies": {
+    "webpack": "~1.13.1",
+    "webpack-dev-server": "~1.14.1",
+    "babel-loader": "~6.2.4",
+    "babel-core": "~6.11.4",
+    "babel-preset-react": "~6.11.1",
+    "babel-preset-es2015": "~6.9.0"
+  }
+}
