@@ -1,9 +1,8 @@
 const createApplePayButton = React => (props) => {
 
-
   return (
-    <div style={}>
-   
+    <div>
+      <button>apple pay</button>
     </div>
   );
 };
