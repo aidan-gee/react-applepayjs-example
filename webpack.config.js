@@ -3,7 +3,7 @@ var webpack = require('webpack');
  
 module.exports = {
   entry: './examples/app.jsx',
-  output: { path: __dirname, filename: 'bundle.js' },
+  output: { path: __dirname + '/examples/', filename: 'bundle.js' },
   devServer: {
     contentBase: './examples', // Relative directory for base of server
   },

@@ -4,7 +4,9 @@
   "description": "A react component for web apple pay payments.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "webpack-dev-server",
+    "build": "webpack"
   },
   "author": "Aidan Gee <aidangeewd@gmail.com",
   "license": "GNU",
